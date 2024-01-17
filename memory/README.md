@@ -3,6 +3,7 @@ Vue version @/vue cli 5.0.8
 ## Project setup
 ```
  npm install -g @vue/cli
+ npm install
 ```
 
 ### Compiles and hot-reloads for development
