@@ -1,8 +1,8 @@
 # memory
-
+Vue version @/vue cli 5.0.8
 ## Project setup
 ```
-npm install
+ npm install -g @vue/cli
 ```
 
 ### Compiles and hot-reloads for development
